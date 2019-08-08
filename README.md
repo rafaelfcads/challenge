@@ -8,13 +8,13 @@ When you go in to meet the existing order entry folks, you discover that their b
 
 During first day of meetings, you’ve decided to focus on payments, and in particular on the processing required when a payment was received by the company. You come home, exhausted, with a legal pad full of rule snippets such as:
 
-If the payment is for a physical product, generate a packing slip for shipping.
-If the payment is for a book, create a duplicate packing slip for the royalty department.
-If the payment is for a membership, activate that membership.
-If the payment is an upgrade to a membership, apply the upgrade.
-If the payment is for a membership or upgrade, e-mail the owner and inform them of the activation/upgrade.
-If the payment is for the video “Learning to Ski,” add a free “First Aid” video to the packing slip (the result of a court decision in 1997).
-If the payment is for a physical product or a book, generate a commission payment to the agent.
+* If the payment is for a physical product, generate a packing slip for shipping.
+* If the payment is for a book, create a duplicate packing slip for the royalty department.
+* If the payment is for a membership, activate that membership.
+* If the payment is an upgrade to a membership, apply the upgrade.
+* If the payment is for a membership or upgrade, e-mail the owner and inform them of the activation/upgrade.
+* If the payment is for the video “Learning to Ski,” add a free “First Aid” video to the packing slip (the result of a court decision in 1997).
+* If the payment is for a physical product or a book, generate a commission payment to the agent.
 and so on, and so on, for seven long, long, yellow pages.
 
 And each day, to your horror, you gather more and more pages of these rules.
